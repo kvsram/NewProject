@@ -1,0 +1,3 @@
+# day-trader-skill run-time state (watchlists, plans, broker log)
+trader/state/
+trader/state/ptr-pdfs/
